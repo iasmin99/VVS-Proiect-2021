@@ -1,0 +1,10 @@
+body {
+    background: content-box radial-gradient(crimson, skyblue);
+}
+
+h1 {
+    color: black;
+}
+p {
+    color: red;
+}
